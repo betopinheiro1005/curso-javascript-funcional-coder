@@ -44,7 +44,8 @@ Aula 37 - Função Reduce - Parte 3
 Aula 38 - Promise - Parte 1  
 Aula 39 - Promise - Parte 2  
 Aula 40 - Promise - Parte 3  
-Aulas 41 e 42 - Desafio Promise  
+Aula 41 - Desafio Promise  
+Aula 42 - Desafio Promise  
 Aula 43 - Promise - Parte 4  
 Aula 44 - Promise - Parte 5  
 Aula 45 - Async/Await - Parte 1  
