@@ -1,7 +1,8 @@
 # Curso Fundamentos de JavaScript Funcional
 ## COD3R (Leonardo Moura Leitão)
-### Link do video
-<https://www.youtube.com/watch?v=W3f6hiTLipc>
+
+### [Videos do curso](https://www.youtube.com/watch?v=W3f6hiTLipc)
+
 ### Lista de aulas
 
 Aula 01 - Fundamentos - Explicações iniciais  
@@ -10,7 +11,8 @@ Aula 03 - Anatomia de uma função - Function expression
 Aula 04 - Anatomia de uma função - Arrow Function  
 Aula 05 - Anatomia de uma função - Função imediatamente invocada  
 Aula 06 - Parâmetros  
-Aulas 07 e 08 - Desafio 1  
+Aula 07 - Desafio 1  
+Aula 08 - Desafio 1  
 Aula 09 - First-Class Function  
 Aula 10 - Higher-Order Function - Parte 1  
 Aula 11 - Higher-Order Function - Parte 2  
